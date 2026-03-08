@@ -5,7 +5,7 @@ This project predicts stock prices (AAPL example) using an LSTM neural network.
 ## Structure
 - `src/` : Python scripts for data, model, prediction, visualization
 - `plots/` : Predicted vs Actual charts
-- `data/` : (Optional) store historical CSVs
+- `data/` : store historical CSVs
 - `run_forecast.py` : Main script to run the project
 - `requirements.txt` : Python dependencies
 
