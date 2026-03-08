@@ -26,12 +26,13 @@ financial_time_series_forecasting/
 │   └─ stock_forecast.py   # Main script to run the full workflow
 │
 ├─ plots/
-│   └─ AAPL_stock_prediction.png     
-    └─ stock_prediction.png
+│   ├─ AAPL_stock_prediction.png     
+│   └─ stock_prediction.png
 │
 ├─ run_forecast.py         # Entry point for running the project
 ├─ requirements.txt        # All Python dependencies
 └─ README.md               # Project documentation
+
 Features
 
 Fetches historical stock data using yfinance
