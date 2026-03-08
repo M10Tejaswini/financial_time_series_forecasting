@@ -16,7 +16,7 @@ The project includes:
 ---
 
 ## Folder Structure
-
+```
 financial_time_series_forecasting/
 │
 ├── src/
@@ -33,7 +33,7 @@ financial_time_series_forecasting/
 ├── run_forecast.py         # Entry point for running the project
 ├── requirements.txt        # All Python dependencies
 └── README.md               # Project documentation
----
+```
 
 ## Features
 
